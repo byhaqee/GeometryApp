@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "uas",
+    "slug": "snack-c6c1f358-2ab0-4e4e-90e2-80a2170629f7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "2019071053 | MUHAMMAD BAIHAQI MUSTOPA | GEOMETRY APP"
+  }
+}
